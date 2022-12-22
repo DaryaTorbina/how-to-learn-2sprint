@@ -1,0 +1,11 @@
+.footer {
+  background-color: #1f1f1f;
+  padding-top: 60px;
+  padding-bottom: 40px;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  color: #ffffff;
+  min-height: 350px;
+  box-sizing: border-box; /*так падинги входят в 350*/
+}
